@@ -14,18 +14,26 @@ The first run creates a baseline and subsequent run are automatically compared a
 
 The image from baseline is comared with current image having same **Test Name** and **Step Name**
 
-Compare All the files in the folder
+**Compare All the files in the folder**
+
 Java -jar ImagiumAI.jar -k 4e282cc0-52a9-4a31-bec9-1ce396d24a10 -u http://192.168.10.13:90   -t Regression -f "C:\baseline" -m Default
 
-Compare individual files in the folder
+**Compare individual files in the folder**
+
 Java -jar ImagiumAI.jar -k 4e282cc0-52a9-4a31-bec9-1ce396d24a10 -u http://192.168.10.13:90   -t Regression -f "C:\baseline\Image1.png" -m Default
 
 ---------------------------------------------------------------
 
 **Arguments**
 k   Project Key 
+
 t   Test Name (Unique Identifier)
+
 f   File Name/Folder Name
+
 u   url/endpoint
+
 d   DPI for PDf's (Optional)
+
 m   Mode (Default|Strict) - Optional
+
