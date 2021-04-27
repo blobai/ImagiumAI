@@ -29,15 +29,15 @@ Java -jar ImagiumAI.jar -k 4e282cc0-52a9-4a31-bec9-1ce396d24a10 -u http://192.16
 
 **Arguments**
 
-k   Project Key 
+k          Project Key 
 
-t   Test Name (Unique Identifier)
+t          Test Name (Unique Identifier)
 
-f   File Name/Folder Name
+f          File Name/Folder Name
 
-u   url/endpoint
+u          url/endpoint
 
-d   DPI for PDf's (Optional)
+d          DPI for PDf's (Optional)
 
-m   Mode (Default|Strict) - Optional
+m          Mode (Default|Strict) - Optional
 
