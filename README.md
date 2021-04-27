@@ -1,4 +1,4 @@
-# ImagiumAI
+# ImagiumAI  [Download here](https://github.com/blobai/ImagiumAI/releases/download/1.26/ImagiumAI.jar)
 
 ImagiumAI.jar is a supplementary utility to Imagium.io which allows comparison of standalone images and PDF files.
 This utility can easily be run via command line and has following features:
