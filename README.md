@@ -29,15 +29,27 @@ Java -jar ImagiumAI.jar -k 4e282cc0-52a9-4a31-bec9-1ce396d24a10 -u http://192.16
 
 **Arguments**
 
-k     -     Project Key 
+k - Project Key
 
-t     -     Test Name (Unique Identifier)
+t - Test Name (Unique Identifier)
 
-f     -     File Name/Folder Name
+f - File Name/Folder Name
 
-u     -     url/endpoint
+u - url/endpoint
 
-d     -     DPI for PDf's (Optional)
+d - DPI for PDf's (Optional)
 
-m     -     Mode (Default|Strict) - Optional
+p - Passowrd for protected PDF's (Optional)
+
+m - Mode (Default|Strict) - Optional
+
+ty - Type (Positive|Negative) - Optional
+
+tr - Target (x,y,width,height|x1,y1,width1,height1;x2,y2,width2,height2)   (Only for Negative)
+
+ex - Exclude (x,y,width,height|x1,y1,width1,height1;x2,y2,width2,height2)  (Optional)
+
+ig - Ignore (Integer - Square pixels to ignore - Optional)
+
+tags - Assign tags to a step (e.g. "SIT,English,Release1" etc. - Optional)
 
