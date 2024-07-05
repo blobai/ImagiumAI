@@ -1,6 +1,9 @@
 # ImagiumAI  [Download here](https://github.com/blobai/ImagiumAI/releases/download/1.26/ImagiumAI.jar)
 
 ImagiumAI.jar is a supplementary utility to Imagium.io which allows comparison of standalone images and PDF files.
+
+**The attached JAR is compiled for Java 8. If you are working on any other Java framework, simply download the repository and build a new JAR using 'mvn clean install' or 'mvn clean package'**
+
 This utility can easily be run via command line and has following features:
 1. Can compare on individual image 
 2. Can compare multiple images in a folder all at once
