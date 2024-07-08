@@ -1,6 +1,0 @@
-com\ImageComparison\Api\Compare.class
-com\ImageComparison\Convert\Images.class
-com\ImageComparison\ImagiumAI.class
-com\ImageComparison\Convert\processPDF.class
-com\ImageComparison\util\Param.class
-com\ImageComparison\util\RunTest.class
