@@ -55,8 +55,8 @@
      <artifactId>maven-compiler-plugin</artifactId>
      <version>3.8.1</version>
      <configuration>
-         <source>1.8</source> <!-- Update to a supported version -->
-         <target>1.8</target> <!-- Update to a supported version -->
+         <source>11</source> <!-- Update to a supported version -->
+         <target>11</target> <!-- Update to a supported version -->
          <encoding>UTF-8</encoding> <!-- Specify file encoding -->
      </configuration>
  </plugin>
